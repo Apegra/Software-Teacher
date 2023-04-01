@@ -13,7 +13,7 @@
     Bölme -> x/y
     Mod Alma -> x%y
     Üs Alma -> x**y
-    Kalansız Bölme -> x+y
+    Kalansız Bölme -> x//y
     Karekök Alma -> sqrt(x)
 
 > ![Formula Node](/Node-Grupları/Matematik-Fonksiyonları/images/formula.png)
