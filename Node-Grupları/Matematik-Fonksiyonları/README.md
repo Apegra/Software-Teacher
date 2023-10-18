@@ -16,4 +16,4 @@
     Kalansız Bölme -> x//y
     Karekök Alma -> sqrt(x)
 
-> ![Formula Node](/Node-Grupları/Matematik-Fonksiyonları/images/formula.png)
+> ![Formula Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Matematik-Fonksiyonları/images/formula.png?raw=true)

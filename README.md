@@ -1,4 +1,4 @@
-![Header Image](/images/header.png)
+![Header Image](https://github.com/Apegra/Software-Teacher/blob/main/images/header.png?raw=true)
 ## Biz Kimiz? :classical_building:
 
 Software Teacher ortaokul ve lise öğrencilerine tek satır kod yazmadan, görsel programlama ile akıllarındaki projeleri oluşturmalarına imkan sağlayan bir girişimdir. Yazılım öğrenme serüvenine adım atmış öğrencilerin, syntax(sözdizimi) hatalarını ortadan kaldırarak burada kaybedilecek zaman ve eforun %100'ünü projelerinde kullanmalarını amaçlar.

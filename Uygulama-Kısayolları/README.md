@@ -4,7 +4,7 @@
 
 > Proje sekmesi içerisinde mouse sağ tık yapıldığında node ekleme menüsü açılır.
 >
-> ![Node Bloğu](/Uygulama-Kısayolları/images/right_click.png)
+> ![Node Bloğu](https://github.com/Apegra/Software-Teacher/blob/main/Uygulama-Kısayolları/images/right_click.png?raw=true)
 
 ### Ctrl + S
 
@@ -14,7 +14,7 @@
 
 > Seçili node/node'lar Ctrl + D kısayolu yapıldığında çoğaltılır. Eğer seçili node'lar arasında bağlantı varsa çoğaltılan node'lar arasındaki bağlantılar da otomatik olarak yapılır.
 >
-> ![Node Çoğaltma](/Uygulama-Kısayolları/images/duplicate.png)
+> ![Node Çoğaltma](https://github.com/Apegra/Software-Teacher/blob/main/Uygulama-Kısayolları/images/duplicate.png?raw=true)
 
 ### Delete
 

@@ -16,59 +16,59 @@
 
 > İsimlendirilebilen integer türünde bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir. Node'a isim verdikten sonra **Enter** tuşuna basılarak isim kaydedilir, isim tekrar değiştirilmek istendiğinde ismin üzerine çift tık yapılarak tekrardan düzenlenebilir.
 >
-> ![Set Integer Node](/Node-Grupları/Veri-Tipleri/images/set_integer.png)
+> ![Set Integer Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/set_integer.png?raw=true)
 
 ### Integer
 
 > Integer türünde isimsiz bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir.
 >
-> ![Integer Node](/Node-Grupları/Veri-Tipleri/images/integer.png)
+> ![Integer Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/integer.png?raw=true)
 
 ### Set String
 
 > İsimlendirilebilen string türünde bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir. Node'a isim verdikten sonra **Enter** tuşuna basılarak isim kaydedilir, isim tekrar değiştirilmek istendiğinde ismin üzerine çift tık yapılarak tekrardan düzenlenebilir.
 >
-> ![Set string Node](/Node-Grupları/Veri-Tipleri/images/set_string.png)
+> ![Set string Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/set_string.png?raw=true)
 
 ### String
 
 > String türünde isimsiz bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir.
 >
-> ![String Node](/Node-Grupları/Veri-Tipleri/images/string.png)
+> ![String Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/string.png?raw=true)
 
 > Multiline seçeneğini kullanarak birden fazla satırda yazı yazılabilir.
 >
-> ![String Node](/Node-Grupları/Veri-Tipleri/images/multiline_string.png)
+> ![String Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/multiline_string.png?raw=true)
 
 ### Set Float
 
 > İsimlendirilebilen float türünde bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir. Node'a isim verdikten sonra **Enter** tuşuna basılarak isim kaydedilir, isim tekrar değiştirilmek istendiğinde ismin üzerine çift tık yapılarak tekrardan düzenlenebilir.
 >
-> ![Set Float Node](/Node-Grupları/Veri-Tipleri/images/set_float.png)
+> ![Set Float Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/set_float.png?raw=true)
 
 ### Float
 
 > Float türünde isimsiz bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir.
 >
-> ![Float Node](/Node-Grupları/Veri-Tipleri/images/float.png)
+> ![Float Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/float.png?raw=true)
 
 ### Set Boolean
 
 > İsimlendirilebilen boolean türünde bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir. Node'a isim verdikten sonra **Enter** tuşuna basılarak isim kaydedilir, isim tekrar değiştirilmek istendiğinde ismin üzerine çift tık yapılarak tekrardan düzenlenebilir.
 >
-> ![Set Boolean Node](/Node-Grupları/Veri-Tipleri/images/set_boolean.png)
+> ![Set Boolean Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/set_boolean.png?raw=true)
 
 ### Boolean
 
 > Boolean türünde isimsiz bir değişken oluşturur. Değişken çıkışı kullanılarak diğer node'lara bağlantı yapıldığında node'un değeri çağrılabilir.
 >
-> ![Boolean Node](/Node-Grupları/Veri-Tipleri/images/boolean.png)
+> ![Boolean Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/boolean.png?raw=true)
 
 ### Get
 
 > Node üzerindeki liste içinden daha önce tanımlanmış bir değişken seçildiğinde seçilen node'un değeri çağrılabilir. Değişken tekrar değiştirilmek istendiğinde değişken isminin üzerine çift tık yapılarak tekrardan düzenlenebilir.
 >
-> ![Get Node](/Node-Grupları/Veri-Tipleri/images/get.png)
+> ![Get Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/get.png?raw=true)
 
 ### Update
 
@@ -76,4 +76,4 @@
 >
 > Aşağıdaki örnekte isim değişkeninin değeri başlangıçta Melisa iken daha sonra Selin olarak güncellenmektedir. Değişken get node'u ile tekrar çağırıldığı zaman yeni değerini vermektedir.
 >
-> ![Update Node](/Node-Grupları/Veri-Tipleri/images/update.png)
+> ![Update Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Veri-Tipleri/images/update.png?raw=true)

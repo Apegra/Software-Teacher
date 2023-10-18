@@ -17,7 +17,7 @@
     Float:
         5.849 -> 5
 
-> ![Int Node](/Node-Grupları/Dönüştürme-Fonksiyonları/images/int.png)
+> ![Int Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Dönüştürme-Fonksiyonları/images/int.png?raw=true)
 
 ### Float
 
@@ -30,7 +30,7 @@
         True -> 1.0
         False -> 0.0
 
-> ![Float Node](/Node-Grupları/Dönüştürme-Fonksiyonları/images/float.png)
+> ![Float Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Dönüştürme-Fonksiyonları/images/float.png?raw=true)
 
 ### Str
 
@@ -46,7 +46,7 @@
         True -> "True"
         False -> "False"
 
-> ![Str Node](/Node-Grupları/Dönüştürme-Fonksiyonları/images/str.png)
+> ![Str Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Dönüştürme-Fonksiyonları/images/str.png?raw=true)
 
 ### Bool
 
@@ -67,4 +67,4 @@
         "" -> False
         - Boş string haricindeki tüm değerler True sonucunu verir.
 
-> ![Bool Node](/Node-Grupları/Dönüştürme-Fonksiyonları/images/bool.png)
+> ![Bool Node](https://github.com/Apegra/Software-Teacher/blob/main/Node-Grupları/Dönüştürme-Fonksiyonları/images/bool.png?raw=true)
